@@ -1,0 +1,1 @@
+select ltrim("       Informatics Practices Class XII     ") "Left Spaces", rtim("            Informatics Practices Class XII        ") "Right Trim", trim("       Informatics Practices Class XII     ") “Both”;
